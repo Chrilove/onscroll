@@ -984,7 +984,7 @@ export default function PortfolioPage() {
      {/* Footer */}
      <footer className="py-4" style={{ background: 'linear-gradient(135deg, #9333ea 0%, #ec4899 100%)' }}>
        <div className="container text-center text-white">
-         <p className="mb-2">✨ Sprinkled with love by Sarah Sparkles ✨</p>
+         <p className="mb-2">✨ Sprinkled with love by Christianty ✨</p>
          <p className="mb-0">© {new Date().getFullYear()} | All rights magically reserved</p>
        </div>
      </footer>
